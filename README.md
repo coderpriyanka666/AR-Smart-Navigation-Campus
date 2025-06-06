@@ -20,19 +20,6 @@ The AR Smart Navigation Campus project leverages AR technology to provide users 
 
 ---
 
-## 🛠️ **Installation**
-To set up the project locally, follow these steps:
-
-1. **Clone the repository:**
-   git clone https://github.com/YourUsername/AR-Smart-Campus.git
-2. **Navigate to the project directory:**
-   cd AR-Smart-Campus
-3. **Install dependencies:**
-   Ensure you have Android Studio installed. Open the project in Android Studio, and it will prompt you to install necessary dependencies.
-4. **Build the project:**
-   Click on the 'Build' button in Android Studio to compile the project.
-5. **Run the application:**
-   Connect an Android device or use an emulator to run the project.
 
 ## 🚀 **Usage**
 After installing the application on an Android device:
