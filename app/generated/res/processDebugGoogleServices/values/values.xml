@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">646379518514</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDBpI-UMkQME9RkfwmTr234juuA0xZcEI</string>
+    <string name="google_app_id" translatable="false">1:646379518514:android:ff25df636e4254c70d9a2b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDBpI-UMkQME9RkfwmTr234juuA0xZcEI</string>
+    <string name="google_storage_bucket" translatable="false">navigation-in-campus.appspot.com</string>
+    <string name="project_id" translatable="false">navigation-in-campus</string>
+</resources>
